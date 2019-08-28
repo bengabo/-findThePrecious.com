@@ -17,9 +17,7 @@
   </header>
   <a href="https://placeholder.com"><img src="http://via.placeholder.com/811x225.png?text=Dangerous+fellowship+try+to+destroy+the+ring" alt="Dangerous fellowship"></a>
 
-<!-- section "Fellows wanted dead"
---> 
-    <div>
+      <div>
       <h2>Fellows wanted dead</h2>
       <p>(Or alive if you want to eat them)</p>
     </div>
@@ -36,7 +34,6 @@
         <p>Small description</p>
       </div>
   
-    <section id="contact-form">
       <h2>Contact us</h2>
         <div>
           <form>
@@ -57,9 +54,7 @@
                     <textarea id="message" name="message"> Your message </textarea>
             </form>
         </div>
-  </section>
 
-  <section id="footer">
     <footer>
       <ul>
         <li><a href="#aboutus" target=blank>About us</a></li>
@@ -72,5 +67,4 @@
         <a href="http://www.sauron4ever.com" target=blank>Sauron4ever.com</a>
         <a href="https://twitter.com/LOeilDeSauron" target=_blank>Follow him also on Twitter</a>
     </footer>
-  </section>
 </body>
