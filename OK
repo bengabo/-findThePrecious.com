@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wild Circus by Wamwam</title>
+</head>
+
+<body>
+  <header>
+    <h1 id="FindThePrecious">FindThePrecious.com</h1>
+      <nav>
+        <ul>
+          <li><a href="#fellows">Fellows</a></li>
+          <li><a href="#contactus">Contact Us</a></li>
+        </ul>
+     </nav>
+  </header>
+  <a href="https://placeholder.com"><img src="http://via.placeholder.com/811x225.png?text=Dangerous+fellowship+try+to+destroy+the+ring" alt="Dangerous fellowship"></a>
+
+<!-- section "Fellows wanted dead"
+--> 
+    <div>
+      <h2>Fellows wanted dead</h2>
+      <p>(Or alive if you want to eat them)</p>
+    </div>
+    <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=Reward+1000+gold+coins" alt="banner"></a>
+      <h3>The wizard</h3>
+        <p>Small description</p>
+    </div>
+    <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=DEAD" alt="Picture of the dwarf"></a>
+        <h3>Hobbit #3</h3>
+        <p>Small description</p>
+      </div>
+      <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=Reward+250+gold+coins" alt="Picture of the dwarf"></a>
+        <h3>Yummy dwarf</h3>
+        <p>Small description</p>
+      </div>
+  
+    <section id="contact-form">
+      <h2>Contact us</h2>
+        <div>
+          <form>
+            <label for="mail">Mail</label>
+                    <input type="text" name="mail" id="mail" required/>
+                    <br />
+                    <label for="home">Home</label>
+                    <input type="text" name="home" id="home" required/>
+                    <br />
+                    <label for="subject">Subject</label>
+                    <select name="subject" id="subject">
+                        <option selected>I have seen one of them</option>
+                        <option>I have captured one of them</option>
+                        <option>I want to join your army</option>
+                    </select>
+                    <br />
+                    <label for="message"> Main message </label>
+                    <textarea id="message" name="message"> Your message </textarea>
+            </form>
+        </div>
+  </section>
+
+  <section id="footer">
+    <footer>
+      <ul>
+        <li><a href="#aboutus" target=blank>About us</a></li>
+        <li><a href="#fellows" target=blank>Fellows</a></li>
+        <li><a href="#jointhearmy" target=blank>Join our army</a></li>
+        <li><a href="#faq" target=blank>FAQ</a></li>
+        <li><a href="#rewardconditions" target=blank>Reward conditions</a></li>
+        <li><a href="#legalmentions" target=blank>Legal mentions</a></li>
+      </ul>
+        <a href="http://www.sauron4ever.com" target=blank>Sauron4ever.com</a>
+        <a href="https://twitter.com/LOeilDeSauron" target=_blank>Follow him also on Twitter</a>
+    </footer>
+  </section>
+</body>
