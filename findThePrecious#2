@@ -23,7 +23,7 @@
           </ul>
        </nav>
     </header>
-    <a href="https://placeholder.com"><img src="http://via.placeholder.com/811x225.png?text=Dangerous+fellowship+try+to+destroy+the+ring" alt="Dangerous fellowship"></a>
+    <a href="https://placeholder.com"><img src="http://via.placeholder.com/811x225.png?text=Dangerous+fellowship+try+to+destroy+the+ring" alt="Dangerous fellowship banner"></a>
   </section>
   
   <section id="banner">
@@ -34,15 +34,15 @@
   </section>
 
   <main id="rewards">
-    <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=Reward+1000+gold+coins" alt="banner"></a>
+    <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=Reward+1000+gold+coins" alt="The wizard"></a>
       <h3>The wizard</h3>
         <p>Small description</p>
     </div>
-    <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=DEAD" alt="Picture of the dwarf"></a>
+    <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=DEAD" alt="Hobbit"></a>
         <h3>Hobbit #3</h3>
         <p>Small description</p>
       </div>
-      <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=Reward+250+gold+coins" alt="Picture of the dwarf"></a>
+      <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/244x200.png?text=Reward+250+gold+coins" alt="Yummy dwarf"></a>
         <h3>Yummy dwarf</h3>
         <p>Small description</p>
       </div>
