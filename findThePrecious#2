@@ -18,7 +18,7 @@
           <li class="nav-item"><a href="#fellows" title="Fellows of the Ring">Fellows</a></li>
           <li class="nav-item"><a href="#about" title="all about the Precious Ring">The Ring</a></li>
           <li class="nav-item"><a href="#reward" title="Get your reward here">Get My Reward</a></li>
-          <li class="nav-item"><a href="#hunters" title="Best Hunters are here">Best Hunters</a></li>
+          <li class="nav-item"><a href="#banner" title="Best Hunters are here">Best Hunters</a></li>
           <li class="nav-item"><a href="#army" title="Join The Army now">Join The Army</a></li>
           <li class="nav-item"><a href="#contact" title="Contact us and leave your heart behind">Contact Us</a></li>
             </ul>
@@ -79,7 +79,7 @@
   <footer>
     <div id="footer">
       <ul>
-        <li><a href="#" target=blank title="Everything about us">About us</a></li>
+        <li><a href="#header" target=blank title="Everything about us">About us</a></li>
         <li><a href="#" target=blank title="Fellows of the Ring">Fellows</a></li>
         <li><a href="#" target=blank title="Join the army now">Join our army</a></li>
         <li><a href="#" target=blank title="FAQ">FAQ</a></li>
